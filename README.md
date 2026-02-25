@@ -1,5 +1,5 @@
 # 💫 About Me:
-hello world<br># Hey 👋 I'm Krish Ghosal<br><br>🎯 On a mission to transform messy data into smart decisions<br>📊 Power BI Dashboard Creator<br>📉 Data Cleaning & Visualization Specialist<br>⚡ Exploring ML without limits<br><br>💡 I don’t just analyze data — I make it speak.<br><br>🛠️ Tools I Use:<br>Power BI | Excel | SQL | Python | Java<br><br>📬 Open to Internship & Freelance Opportunities!<br>
+hello world<br># Hey 👋 I'm Krish Ghosal<br><br>🎯 On a mission to transform messy data into smart decisions and also intersted in web development and software development<br>📊 Power BI Dashboard Creator<br>Front end developer<br> software developer<br>📉 Data Cleaning & Visualization Specialist<br><br>💡 I don’t just analyze data — I make it speak.<br><br>🛠️ Tools I Use:<br>Power BI | Excel | SQL | Python | Java<br><br>📬 Open to Internship & Freelance Opportunities!<br>
 
 
 ## 🌐 Socials:
